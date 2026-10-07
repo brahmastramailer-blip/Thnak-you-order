@@ -1,51 +1,13 @@
+Hello, this is a subscription service notification.
 
+Your annual plan is due for renewal. The total amount for the next billing period is €149.
 
-Skip to content
-Using Gmail with screen readers
-10 of 95
-Invoice #INV-0001 from Lincoln Price is due
-Inbox
-Lincoln Price bill
-$453.23
-Minimum due
-$453.23
-Based on this email
-Correct?
+To hear more details about your subscription, press 1.
 
-Taylor Tucker <messaging-service@post.xero.com>
-Attachments
-Thu, Oct 1, 11:32 PM (6 days ago)
-to alijones876876
+To continue with your renewal, press 2.
 
-Lincoln Price
-$453.23 USD
-Due 1 Oct 2026
-Invoice #: INV-0001
-View Invoice
-Hi ,
+To speak with customer support, press 3.
 
-Here's invoice INV-0001 for USD 453.23.
+You can also manage or cancel your subscription anytime through the official website or mobile app.
 
-The amount outstanding of USD 453.23 is due on 1 October 2026.
-
-View your bill online: https://in.xero.com/dlLd6k0mCqhHu1QM2fvWWczugLVW9VNqHnqAB6W7
-
-From your online bill you can print a PDF, export a CSV, or create a free login and view your outstanding bills.
-
-If you have any questions, please let us know.
-
-Thanks,
-Lincoln Price
-
-Description	Amount
-Bitcoin payment processed	453.23
-Please contact +1 828-242-0089 for PayPal payment assistance	0.00
-Subtotal	453.23
-Sales Tax 0%	0.00
-Amount Due
-USD 453.23
-View Invoice
-Powered by	Xero
-
- One attachment
-  •  Scanned by Gmail
+Thank you.
